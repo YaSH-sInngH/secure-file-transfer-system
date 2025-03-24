@@ -28,8 +28,12 @@ The **Secure File Transfer System** is a web application that allows users to se
 - Input validation to prevent XSS & SQL Injection
 
 ---
-### Screenshots: 
-
+## 📸 Screenshot  
+Here is a preview of the application:  
+![Screenshot Description](assets/2.png)
+![Screenshot Description](assets/3.png)
+![Screenshot Description](assets/4.png)
+![Screenshot Description](assets/5.png)
 
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
